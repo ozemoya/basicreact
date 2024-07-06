@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Hello Wassup Hello Wassup</h1>
+        <h1>Basic React</h1>
       </header>
       <Header />
       <main>
